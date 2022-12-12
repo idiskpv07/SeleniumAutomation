@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-08T02:42:25 PST" name="Suite" finished-at="2022-12-08T02:43:22 PST" duration-ms="57389">
+    <groups>
+    </groups>
+    <test started-at="2022-12-08T02:42:25 PST" name="Test" finished-at="2022-12-08T02:43:22 PST" duration-ms="57389">
+      <class name="ddtExample.NOPCommApp">
+        <test-method is-config="true" signature="launchApp()[pri:0, instance:ddtExample.NOPCommApp@659499f1]" started-at="2022-12-08T02:42:25 PST" name="launchApp" finished-at="2022-12-08T02:42:31 PST" duration-ms="6188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="verifyLoginFeatureWithInValid(java.lang.String,java.lang.String)[pri:0, instance:ddtExample.NOPCommApp@659499f1]" started-at="2022-12-08T02:42:31 PST" name="verifyLoginFeatureWithInValid" data-provider="sampleData" finished-at="2022-12-08T02:42:41 PST" duration-ms="10492" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Anusha@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Demo@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginFeatureWithInValid -->
+        <test-method signature="verifyLoginFeatureWithInValid(java.lang.String,java.lang.String)[pri:0, instance:ddtExample.NOPCommApp@659499f1]" started-at="2022-12-08T02:42:41 PST" name="verifyLoginFeatureWithInValid" data-provider="sampleData" finished-at="2022-12-08T02:42:51 PST" duration-ms="9789" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Pratyusha@google.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginFeatureWithInValid -->
+        <test-method signature="verifyLoginFeatureWithInValid(java.lang.String,java.lang.String)[pri:0, instance:ddtExample.NOPCommApp@659499f1]" started-at="2022-12-08T02:42:51 PST" name="verifyLoginFeatureWithInValid" data-provider="sampleData" finished-at="2022-12-08T02:43:01 PST" duration-ms="9742" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Surya@yahoo.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[random@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginFeatureWithInValid -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:ddtExample.NOPCommApp@659499f1]" started-at="2022-12-08T02:43:01 PST" name="closeApp" finished-at="2022-12-08T02:43:22 PST" duration-ms="21160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- ddtExample.NOPCommApp -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

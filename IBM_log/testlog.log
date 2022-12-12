@@ -1,0 +1,85 @@
+2022-12-05 01:29:35,221 - NOP Comm Application Module -INFO - launching application
+2022-12-05 01:29:35,238 - NOP Comm Application Module -INFO - Application URL: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-05 01:29:46,484 - NOP Comm Application Module -INFO - Application launched successfully into chrome browser https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-05 01:29:46,674 - NOP Comm Application Module -INFO - clear the username field
+2022-12-05 01:29:46,675 - NOP Comm Application Module -WARN - clear the username field
+2022-12-05 01:29:46,675 - NOP Comm Application Module -ERROR - clear the username field
+2022-12-05 01:29:46,752 - NOP Comm Application Module -INFO - enter email id: admin@yourstore.com
+2022-12-05 01:29:46,859 - NOP Comm Application Module -INFO - clear the password field
+2022-12-05 01:29:46,990 - NOP Comm Application Module -INFO - enter password id: admin
+2022-12-05 01:29:47,065 - NOP Comm Application Module -INFO - Click on Login button
+2022-12-05 01:29:54,470 - NOP Comm Application Module -INFO - after sucessful login, application title: Dashboard / nopCommerce administration
+2022-12-05 01:29:58,481 - NOP Comm Application Module -INFO - Click on Customer Menu
+2022-12-05 01:30:03,914 - NOP Comm Application Module -INFO - closing application
+2022-12-05 02:11:19,836 - NOP Comm Application Module -INFO - launching application
+2022-12-05 02:11:19,836 - NOP Comm Application Module -INFO - Application URL: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-05 02:11:24,345 - NOP Comm Application Module -INFO - Application launched successfully into chrome browser https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-05 02:11:27,551 - NOP Comm Application Module -INFO - before login application title should beYour store. Login
+2022-12-05 02:11:27,561 - NOP Comm Application Module -INFO - enter userName
+2022-12-05 02:11:27,728 - NOP Comm Application Module -INFO - enter password
+2022-12-05 02:11:27,860 - NOP Comm Application Module -INFO - click on radio checkbox
+2022-12-05 02:11:27,923 - NOP Comm Application Module -INFO - click on login button
+2022-12-05 02:11:34,386 - NOP Comm Application Module -INFO - after login application title should beDashboard / nopCommerce administration
+2022-12-05 02:11:39,576 - NOP Comm Application Module -INFO - closing application
+2022-12-07 01:11:24,105 - NOP Comm Application Module -INFO - launching application
+2022-12-07 01:11:24,105 - NOP Comm Application Module -INFO - Application URL: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-07 01:12:12,583 - NOP Comm Application Module -INFO - launching application
+2022-12-07 01:12:12,601 - NOP Comm Application Module -INFO - Application URL: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-07 01:12:17,438 - NOP Comm Application Module -INFO - Application launched successfully into chrome browser https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-07 01:12:20,659 - NOP Comm Application Module -INFO - before login application title should beYour store. Login
+2022-12-07 01:12:20,673 - NOP Comm Application Module -INFO - enter userName
+2022-12-07 01:12:20,862 - NOP Comm Application Module -INFO - enter password
+2022-12-07 01:12:21,018 - NOP Comm Application Module -INFO - click on radio checkbox
+2022-12-07 01:12:21,096 - NOP Comm Application Module -INFO - click on login button
+2022-12-07 01:12:27,518 - NOP Comm Application Module -INFO - after login application title should beDashboard / nopCommerce administration
+2022-12-07 01:12:48,794 - NOP Comm Application Module -INFO - closing application
+2022-12-07 01:42:38,198 - NOP Comm Application Module -INFO - launching application
+2022-12-07 01:42:38,218 - NOP Comm Application Module -INFO - Application URL: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-07 01:42:42,952 - NOP Comm Application Module -INFO - Application launched successfully into chrome browser https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-07 01:42:46,115 - NOP Comm Application Module -INFO - enter email details: Rupal@gmail.com
+2022-12-07 01:42:56,544 - NOP Comm Application Module -INFO - enter email details: Anusha1@gmail.com
+2022-12-07 01:43:06,318 - NOP Comm Application Module -INFO - enter email details: Pratyusha1@google.com
+2022-12-07 01:43:16,075 - NOP Comm Application Module -INFO - enter email details: Surya1@yahoo.com
+2022-12-07 01:43:27,952 - NOP Comm Application Module -INFO - closing application
+2022-12-07 01:44:37,725 - NOP Comm Application Module -INFO - launching application
+2022-12-07 01:44:37,740 - NOP Comm Application Module -INFO - Application URL: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-07 01:44:41,848 - NOP Comm Application Module -INFO - Application launched successfully into chrome browser https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-07 01:44:45,063 - NOP Comm Application Module -INFO - enter email details: Anusha@gmail.com
+2022-12-07 01:44:55,447 - NOP Comm Application Module -INFO - enter email details: Pratyusha@google.com
+2022-12-07 01:45:05,163 - NOP Comm Application Module -INFO - enter email details: Surya@yahoo.com
+2022-12-07 01:45:17,067 - NOP Comm Application Module -INFO - closing application
+2022-12-08 01:32:47,534 - NOP Comm Application Module -INFO - launching application
+2022-12-08 01:32:47,549 - NOP Comm Application Module -INFO - Application URL: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-08 01:32:55,437 - NOP Comm Application Module -INFO - Application launched successfully into chrome browser https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-08 01:32:58,606 - NOP Comm Application Module -INFO - enter email details: Anusha@gmail.com
+2022-12-08 01:33:09,122 - NOP Comm Application Module -INFO - enter email details: Pratyusha@google.com
+2022-12-08 01:33:18,811 - NOP Comm Application Module -INFO - enter email details: Surya@yahoo.com
+2022-12-08 01:33:46,882 - NOP Comm Application Module -INFO - closing application
+2022-12-08 01:37:24,628 - NOP Comm Application Module -INFO - launching application
+2022-12-08 01:37:24,639 - NOP Comm Application Module -INFO - Application URL: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-08 01:37:29,246 - NOP Comm Application Module -INFO - Application launched successfully into chrome browser https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-08 01:37:32,409 - NOP Comm Application Module -INFO - enter email details: Anusha@gmail.com
+2022-12-08 01:37:42,821 - NOP Comm Application Module -INFO - enter email details: Pratyusha@google.com
+2022-12-08 01:37:52,675 - NOP Comm Application Module -INFO - enter email details: Surya@yahoo.com
+2022-12-08 01:38:20,675 - NOP Comm Application Module -INFO - closing application
+2022-12-08 01:39:29,639 - NOP Comm Application Module -INFO - launching application
+2022-12-08 01:39:29,654 - NOP Comm Application Module -INFO - Application URL: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-08 01:39:38,188 - NOP Comm Application Module -INFO - Application launched successfully into chrome browser https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-08 01:39:41,371 - NOP Comm Application Module -INFO - enter email details: Anusha@gmail.com
+2022-12-08 01:40:02,643 - NOP Comm Application Module -INFO - enter email details: Pratyusha@google.com
+2022-12-08 01:40:12,981 - NOP Comm Application Module -INFO - enter email details: Surya@yahoo.com
+2022-12-08 01:40:38,427 - NOP Comm Application Module -INFO - closing application
+2022-12-08 02:28:54,317 - NOP Comm Application Module -INFO - launching application
+2022-12-08 02:28:54,339 - NOP Comm Application Module -INFO - Application URL: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-08 02:28:59,314 - NOP Comm Application Module -INFO - Application launched successfully into chrome browser https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-08 02:29:02,500 - NOP Comm Application Module -INFO - enter email details: Anusha@gmail.com
+2022-12-08 02:29:12,944 - NOP Comm Application Module -INFO - enter email details: Pratyusha@google.com
+2022-12-08 02:29:23,212 - NOP Comm Application Module -INFO - enter email details: Surya@yahoo.com
+2022-12-08 02:29:51,677 - NOP Comm Application Module -INFO - closing application
+2022-12-08 02:42:25,366 - NOP Comm Application Module -INFO - launching application
+2022-12-08 02:42:25,382 - NOP Comm Application Module -INFO - Application URL: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-08 02:42:31,282 - NOP Comm Application Module -INFO - Application launched successfully into chrome browser https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-08 02:42:34,479 - NOP Comm Application Module -INFO - enter email details: Anusha@gmail.com
+2022-12-08 02:42:44,949 - NOP Comm Application Module -INFO - enter email details: Pratyusha@google.com
+2022-12-08 02:42:54,724 - NOP Comm Application Module -INFO - enter email details: Surya@yahoo.com
+2022-12-08 02:43:22,624 - NOP Comm Application Module -INFO - closing application
