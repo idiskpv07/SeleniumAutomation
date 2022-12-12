@@ -10,7 +10,7 @@
 
 
 
-	<test thread-count="5" name="ChromeTest">
+	<test thread-count="7" name="ChromeTest">
 
 		<parameter name="ibm_br" value="chrome"></parameter>
 
